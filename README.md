@@ -1,4 +1,4 @@
-# Fault Diagnosis in a Squirrel-Cage Induction Motor
+# Fault Diagnosis
 
 > This is the official repository of the paper: [*Unraveling Induction Motor State through Thermal Imaging and Edge Processing: A Step towards Explainable Fault Diagnosis*](https://ein.org.pl/Unraveling-Induction-Motor-State-through-Thermal-Imaging-and-Edge-Processing-A-Step,170114,0,2.html).
 
