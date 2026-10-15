@@ -7,7 +7,7 @@
 The Squirrel Cage Induction Motor Fault Diagnosis Dataset is a multi-sensor data collection gathered to expand research on anomaly detection, fault diagnosis, and predictive maintenance, mainly using non-invasive methods such as thermal observation or vibration measurement. The measurements were gathered using advanced laboratory at Wrocław University of Science and Technology, designed to simulate and study motor defects. The collected dataset is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a> whereas accompanying scripts and source code are licensed under a [MIT License](./LICENSE).
 
 ## Citation
-
+ 
 ```
 @Article{Piechocki2023,
   journal="Eksploatacja i Niezawodność – Maintenance and Reliability",

@@ -6,7 +6,7 @@ from omegaconf import DictConfig
 # recursively searches for `.env` in all folders starting from work dir
 dotenv.load_dotenv(override=True)
 
-
+ 
 @hydra.main(config_path="configs/", config_name="config.yaml")
 def main(config: DictConfig):
 

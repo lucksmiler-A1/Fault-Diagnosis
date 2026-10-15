@@ -13,3 +13,4 @@
 <p align="center">
   <img width="800" height="500" src="../../.images/LSM9DS1_acc_data.png">
 </p>
+ 
